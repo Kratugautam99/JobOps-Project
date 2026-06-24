@@ -155,9 +155,9 @@ All screenshots are located in the [`Demo_Media/`](Demo_Media) folder.
 |-----------|-------------------|
 | **Frontend** | React.js, Vite, Tailwind CSS, Axios |
 | **Backend** | Node.js, Express.js, Multer, JWT, bcrypt |
-| **Database** | PostgreSQL, MongoDB, Cloudinary API |
+| **Database** | MongoDB, Cloudinary API |
 | **File Storage** | Local File System and Cloudinary Image Store |
-| **Build Tools** | npm, nodemon, nvm |
+| **Build Tools** | NPM, Nodemon, NVM |
 
 ---
 
