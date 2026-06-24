@@ -46,75 +46,106 @@ All screenshots are located in the [`Demo_Media/`](Demo_Media) folder.
     <tr>
       <td align="center">
         <img src="Demo_Media/AboutPage.png" alt="AboutPage" width="300"/><br/>
-        <sub>About Page</sub>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>About Page</sub></strong></figcaption>
+        </figure>
       </td>
       <td align="center">
         <img src="Demo_Media/ApplicationPage.png" alt="ApplicationPage" width="300"/><br/>
-        <sub>Application Page</sub>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Application Page</sub></strong></figcaption>
+        </figure>
       </td>
       <td align="center">
         <img src="Demo_Media/AppliedJobs.png" alt="AppliedJobs" width="300"/><br/>
-        <sub>Applied Jobs</sub>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Applied Jobs</sub></strong></figcaption>
+        </figure>
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="Demo_Media/ChangePassword.png" alt="ChangePassword" width="300"/><br/>
-        <sub>Change Password</sub>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Change Password</sub></strong></figcaption>
+        </figure>
       </td>
       <td align="center">
         <img src="Demo_Media/ContactPage1.png" alt="ContactPage1" width="300"/><br/>
-        <sub>Contact Page Upper</sub>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Contact Page Upper</sub></strong></figcaption>
+        </figure>
       </td>
       <td align="center">
         <img src="Demo_Media/ContactPage2.png" alt="ContactPage2" width="300"/><br/>
-        <sub>Contact Page Lower</sub>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Contact Page Lower</sub></strong></figcaption>
+        </figure>
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="Demo_Media/DeleteAccount.png" alt="DeleteAccount" width="300"/><br/>
-        <sub>Delete Account</sub>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Delete Account</sub></strong></figcaption>
+        </figure>
       </td>
       <td align="center">
         <img src="Demo_Media/JobDescription.png" alt="JobDescription" width="300"/><br/>
-        <sub>Job Description</sub>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Job Description</sub></strong></figcaption>
+        </figure>
       </td>
       <td align="center">
         <img src="Demo_Media/JobFilterPage.png" alt="JobFilterPage" width="300"/><br/>
-        <sub>Job Filter Page</sub>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Job Filter Page</sub></strong></figcaption>
+        </figure>
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="Demo_Media/MainPage1.png" alt="MainPage1" width="300"/><br/>
-        <sub>Main Page Upper</sub>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Main Page Upper</sub></strong></figcaption>
+        </figure>
       </td>
       <td align="center">
         <img src="Demo_Media/MainPage2.png" alt="MainPage2" width="300"/><br/>
-        <sub>Main Page Lower</sub>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Main Page Lower</sub></strong></figcaption>
+        </figure>
       </td>
       <td align="center">
         <img src="Demo_Media/ProfilePage.png" alt="ProfilePage" width="300"/><br/>
-        <sub>Profile Page</sub>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Profile Page</sub></strong></figcaption>
+        </figure>
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="Demo_Media/RegistrationPage.png" alt="RegistrationPage" width="300"/><br/>
-        <sub>Registration Page</sub>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Registration Page</sub></strong></figcaption>
+        </figure>
       </td>
       <td align="center">
         <img src="Demo_Media/LoginPage.png" alt="LoginPage" width="300"/><br/>
-        <sub>Login Page</sub>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Login Page</sub></strong></figcaption>
+        </figure>
       </td>
       <td align="center">
         <img src="Demo_Media/SavedJobs.png" alt="SavedJobs" width="300"/><br/>
-        <sub>Saved Jobs</sub>
+        <figure style="margin:0;">
+          <figcaption><strong><sub>Saved Jobs</sub></strong></figcaption>
+        </figure>
       </td>
     </tr>
   </table>
 </p>
+
 
 ---
 
