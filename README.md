@@ -41,25 +41,80 @@ A Full‑Stack Job Application Portal built as part of a Database Management Sys
 
 All screenshots are located in the [`Demo_Media/`](Demo_Media) folder.
 
-| Main Page (Upper) | Main Page (Lower) | Registration |
-|:---:|:---:|:---:|
-| <img src="Demo_Media/MainPage1.png" width="300"/> | <img src="Demo_Media/MainPage2.png" width="300"/> | <img src="Demo_Media/RegistrationPage.png" width="300"/> |
-
-| Login | Job Filter | Job Description |
-|:---:|:---:|:---:|
-| <img src="Demo_Media/LoginPage.png" width="300"/> | <img src="Demo_Media/JobFilterPage.png" width="300"/> | <img src="Demo_Media/JobDescription.png" width="300"/> |
-
-| Apply Page | Applied Jobs | Saved Jobs |
-|:---:|:---:|:---:|
-| <img src="Demo_Media/ApplicationPage.png" width="300"/> | <img src="Demo_Media/AppliedJobs.png" width="300"/> | <img src="Demo_Media/SavedJobs.png" width="300"/> |
-
-| Profile | Change Password | Delete Account |
-|:---:|:---:|:---:|
-| <img src="Demo_Media/ProfilePage.png" width="300"/> | <img src="Demo_Media/ChangePassword.png" width="300"/> | <img src="Demo_Media/DeleteAccount.png" width="300"/> |
-
-| About Page | Contact (Upper) | Contact (Lower) |
-|:---:|:---:|:---:|
-| <img src="Demo_Media/AboutPage.png" width="300"/> | <img src="Demo_Media/ContactPage1.png" width="300"/> | <img src="Demo_Media/ContactPage2.png" width="300"/> |
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="Demo_Media/AboutPage.png" alt="AboutPage" width="300"/><br/>
+        <sub>About Page</sub>
+      </td>
+      <td align="center">
+        <img src="Demo_Media/ApplicationPage.png" alt="ApplicationPage" width="300"/><br/>
+        <sub>Application Page</sub>
+      </td>
+      <td align="center">
+        <img src="Demo_Media/AppliedJobs.png" alt="AppliedJobs" width="300"/><br/>
+        <sub>Applied Jobs</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="Demo_Media/ChangePassword.png" alt="ChangePassword" width="300"/><br/>
+        <sub>Change Password</sub>
+      </td>
+      <td align="center">
+        <img src="Demo_Media/ContactPage1.png" alt="ContactPage1" width="300"/><br/>
+        <sub>Contact Page Upper</sub>
+      </td>
+      <td align="center">
+        <img src="Demo_Media/ContactPage2.png" alt="ContactPage2" width="300"/><br/>
+        <sub>Contact Page Lower</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="Demo_Media/DeleteAccount.png" alt="DeleteAccount" width="300"/><br/>
+        <sub>Delete Account</sub>
+      </td>
+      <td align="center">
+        <img src="Demo_Media/JobDescription.png" alt="JobDescription" width="300"/><br/>
+        <sub>Job Description</sub>
+      </td>
+      <td align="center">
+        <img src="Demo_Media/JobFilterPage.png" alt="JobFilterPage" width="300"/><br/>
+        <sub>Job Filter Page</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="Demo_Media/MainPage1.png" alt="MainPage1" width="300"/><br/>
+        <sub>Main Page Upper</sub>
+      </td>
+      <td align="center">
+        <img src="Demo_Media/MainPage2.png" alt="MainPage2" width="300"/><br/>
+        <sub>Main Page Lower</sub>
+      </td>
+      <td align="center">
+        <img src="Demo_Media/ProfilePage.png" alt="ProfilePage" width="300"/><br/>
+        <sub>Profile Page</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="Demo_Media/RegistrationPage.png" alt="RegistrationPage" width="300"/><br/>
+        <sub>Registration Page</sub>
+      </td>
+      <td align="center">
+        <img src="Demo_Media/LoginPage.png" alt="LoginPage" width="300"/><br/>
+        <sub>Login Page</sub>
+      </td>
+      <td align="center">
+        <img src="Demo_Media/SavedJobs.png" alt="SavedJobs" width="300"/><br/>
+        <sub>Saved Jobs</sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
