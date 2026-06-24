@@ -1,6 +1,6 @@
 # 💼 JobOps – Job Application Portal
 
-A full‑stack job application portal built as part of a Database Management System (DBMS) course. JobOps allows users to browse job listings, apply with a resume and profile photo, save jobs, track applications, and manage their account – all wrapped in a clean, responsive interface.
+A Full‑Stack Job Application Portal built as part of a Database Management System (DBMS) course. JobOps allows users to browse job listings, apply with a resume and profile photo, save jobs, track applications, and manage their account – all wrapped in a clean, responsive interface.
 
 <p align="center">
   <img src="Demo_Media/WebAppLogo.png" alt="JobOps Dashboard" width="700"/>
