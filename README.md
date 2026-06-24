@@ -69,9 +69,9 @@ All screenshots are located in the [`Demo_Media/`](Demo_Media) folder.
 |-----------|-------------------|
 | **Frontend** | React.js, Vite, Tailwind CSS, Axios |
 | **Backend** | Node.js, Express.js, Multer, JWT, bcrypt |
-| **Database** | PostgreSQL (with pg) |
-| **File Storage** | Local file system (profile photos & resumes) |
-| **Build Tools** | npm, nodemon |
+| **Database** | PostgreSQL, MongoDB, Cloudinary API |
+| **File Storage** | Local File System and Cloudinary Image Store |
+| **Build Tools** | npm, nodemon, nvm |
 
 ---
 
@@ -139,8 +139,8 @@ JobOps-Project/
 
 ### Prerequisites
 
-- **Node.js** (v16 or later) and **npm** installed.
-- **PostgreSQL** installed and running locally.
+- **Node.js** (v22 or later, use "nvm" if needed) and **npm** installed.
+- **MongoDB** installed and running locally (use "mongod" command in terminal).
 - A code editor (VS Code recommended).
 
 ---
